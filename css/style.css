@@ -1,0 +1,24 @@
+html {
+    background-color: darkkhaki;
+    text-align: center;
+}
+
+h1 {
+    color: navy;
+    margin: 20px auto;
+}
+
+button {
+    height: 100px;
+    width: 200px;
+    font-size: larger;
+    color: navy;
+    background-color: olive;
+}
+
+P {
+    font-size: 1000%;
+    text-align: center;
+    color: purple;
+}
+
